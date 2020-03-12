@@ -1,6 +1,6 @@
 {
-  "name": "email_automation",
-  "description": "email's automation! ",
+  "name": "desktopAutomation",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.1-preview]",
